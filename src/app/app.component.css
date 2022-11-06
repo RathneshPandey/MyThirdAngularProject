@@ -1,0 +1,66 @@
+/* Navigation Bar */
+
+.nav_space {
+    position: relative;
+    left: 32%;
+    font-size: 17px;
+}
+
+.nav_line {
+  border-bottom: 1px solid #dfd5d5;
+}
+
+.logo_name {
+    margin: 0px 0px 0px 100px;
+    font-size: 50px;
+}
+
+.box {
+  background-color: red;
+  width: 2px;
+  height: 2px;
+  padding: 5px;
+  display: flex;
+  align-self: center;
+  margin-top: 28px;
+  /* margin: 30px 0px 0px 50px; */
+}
+
+.icon {
+  margin: 13px 15px 0px 0px ;
+}
+
+/* Profile  */
+
+.circle_img {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 82vh;
+}
+
+.btn_profile {
+  border-radius: 40px;
+  height: 40px;
+  width: 120px;
+  margin: 20px 10px;
+  background-color: crimson;
+
+}
+
+.bt_profile {
+  border-radius: 40px;
+  height: 40px;
+  width: 20px;
+  border: 2px solid black;
+}
